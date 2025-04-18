@@ -1,0 +1,17 @@
+ip_addresses:
+    - A.B.C.D
+    - A.B.C.D
+    - A.B.C.D
+
+dns_ip_address: A.B.C.D
+
+# round or geo or load
+algorithm: load
+
+geo_data_file: geo_data.json
+load_data_file: load.json
+
+# directory of all files - the home of this project
+home_dir: /home/admin/dnsserver
+
+geo_api_key: key
