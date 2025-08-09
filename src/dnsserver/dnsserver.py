@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""
-Licensed under the Apache License, Version 2.0.
-"""
+
 
 import argparse
 import datetime
